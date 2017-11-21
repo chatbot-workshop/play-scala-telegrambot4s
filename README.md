@@ -1,5 +1,7 @@
 # Telegram Bot Demo with Scala/ Play
 
+[![Build Status](https://travis-ci.org/chatbot-workshop/play-scala-telegrambot4s.svg?branch=master)](https://travis-ci.org/chatbot-workshop/play-scala-telegrambot4s)
+
 This page was originally created for a [JUGs workshop](https://www.jug.ch/html/events/2017/chatbot_programmieren.html).
 
 The workshop is about the first steps on implementing a chat bot with:
